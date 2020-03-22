@@ -6,9 +6,10 @@ ahead and assume little to no previous experience with the Unix command line.
 What is the Unix command line? It's a persistent but somewhat archaic user
 interface that grants access to text-based programs at the heart of modern
 Unix-based computers (meaning Macs, Linux desktops, BSDs, and so forth). These
-days, you use a "terminal emulator" rather than a real terminal, but at its core
-it's a replica of the same Unix environment built into the tiny and slow
-computers people were huddled over in the 70s, 80s, and 90s.
+days, you use a "terminal emulator" rather than a real terminal to issue these
+commands, but at its core the emulator is a replica of the same Unix environment
+that was built into the tiny and slow computers people hunched over in the 70s,
+80s, and 90s.
 
 ![Unix terminal](images/att-unix-pc-right.jpg)
 
