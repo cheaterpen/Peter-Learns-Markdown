@@ -47,12 +47,12 @@ You're reading this on Github. That works just fine, as does reading anything on
 the web. But given that you'll want to work with files inside your own local
 filesystem, it makes sense to transfer these instructions there.
 
-Rather than downloading these files in the standard way (by clicking a download
-link, for example), or duplicating using copy and paste, you'll use the program
-git to clone them onto your machine. Git is a version control system that will
-prove useful if not essential to writing in plain text formats like markdown and
-latex, and it's so ubiquitous in development today that you'll probably want to
-learn it anyway.
+Instead of downloading these files in the standard way (by clicking a download
+link, for example) or duplicating using copy and paste, you'll use the program
+git to clone the whole folder onto your machine. Git is a version control system
+that is useful if not essential to writing in plain-text formats like markdown
+and latex, and it's ubiquitous in development today. Even if you never write
+code per se, it's useful to know the basic commands of git.
 
 Now that you have Homebrew, installing git is as easy as running the following in Terminal:
 
