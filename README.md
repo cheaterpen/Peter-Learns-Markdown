@@ -70,9 +70,31 @@ Same with email:
 git config --global user.email "Your email address"
 ```
 
-That should be ready to go.
+Git should be ready to go.
 
 ## Step 4: Download this git repository
+
+To get a copy of this file on your computer, you'll want to clone the whole
+repository. A repository is a selection of files that git has been told to watch
+for changes. In this case, that includes this file and a folder with a few
+screenshots.
+
+Since I created this Github repository, I can tell you what the link to clone
+is: `https://github.com/wmhorne/Peter-Learns-Markdown.git`
+
+It's worth knowing how to clone any Github repository, though.
+
+Above and to the right of this or any Github README page (README being
+effectively the "front page" of any Github project), you'll see a green button
+that says "Clone or download." That button will reveal the same link I just
+pasted above. (It's actually the same link you'll find in the browser's url bar,
+too, for whatever that's worth.)
+
+
+![Git clone](images/2020-03-22_14-11.png)
+
+Copy that link. 
+
 
 ## Acquanit yourself with markdown
 
