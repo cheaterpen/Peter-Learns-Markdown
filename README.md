@@ -30,8 +30,8 @@ As I recall, this can take a while.
 ## Step 2: Install Package Manager (Homebrew)
 
 Once you have that finished, you'll be well served to install a "package
-manager," a program that will will itself allow you to download and install
-other programs without much fuss. Since there is no standard Mac package
+manager," a program that will itself allow you to download and install
+other programs without too much fuss. Since there is no standard Mac package
 manager, you'll probably need [Homebrew](https://brew.sh/), the "Missing Package
 Manager for macOS."
 
