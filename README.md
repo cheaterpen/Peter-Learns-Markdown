@@ -10,7 +10,7 @@ days, you use a "terminal emulator" rather than a real terminal, but at its core
 it's a replica of the same Unix environment built into the tiny and slow
 computers people were huddled over in the 70s, 80s, and 90s.
 
-![Unix terminal](att-unix-pc-right.jpg)
+![Unix terminal](images/att-unix-pc-right.jpg)
 
 On Macs, that emulator is Terminal.app. You can open it using your Finder---I
 think it's in the Utilities subfolder of the Applications directory---or more
