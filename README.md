@@ -44,8 +44,8 @@ To install Homebrew, paste the following into the Terminal app and press Enter.
 ## Step 3: Install git
 
 You're reading this on Github. That works just fine, as does reading anything on
-the web. But given that you'll want to work with files inside your local
-filesystem eventually, it makes sense to transfer these instructions there.
+the web. But given that you'll want to work with files inside your own local
+filesystem, it makes sense to transfer these instructions there.
 
 Rather than download them in the standard way (by clicking a download link, for
 example), or duplicate them using copy and paste, you'll use the program git to
