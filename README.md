@@ -14,7 +14,7 @@ that was built into the tiny and slow computers people hunched over in the 70s,
 ![Unix terminal](images/att-unix-pc-right.jpg)
 
 On Macs, that emulator is Terminal.app. You can open it using your Finder---I
-think it's in the Utilities subfolder of the Applications directory---or more
+think it's in the Utilities subfolder of the "Applications"---or more
 rapidly using Spotlight (`Command` + `Space` on your keyboard).
 
 ## Step 1: Install `xcode`
@@ -29,7 +29,7 @@ As I recall, this can take a while.
 
 ## Step 2: Install Package Manager (Homebrew)
 
-Once you have xcode installed, you'll be well served to install a "package
+Once you have that finished, you'll be well served to install a "package
 manager," a program that will will itself allow you to download and install
 other programs without much fuss. Since there is no standard Mac package
 manager, you'll probably need [Homebrew](https://brew.sh/), the "Missing Package
