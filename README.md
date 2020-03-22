@@ -53,16 +53,6 @@ clone the files onto your machine. Git is a version control system that is usefu
 not essential to writing in plain text formats like markdown and latex, and it's
 so ubiquitous in development today it's simply useful to know.
 
-(Unrelatedly, its creation is fascinating in its own right. Linus Torvalds,
-frustrated with the version control software available to him as he was
-developing Linux, decided to created his own. He started on April 3rd, 2005. The
-project was released April 7th, just four days later. Beginning as something he
-created for his own work, the program has gone on to facilitate the development
-of almost every major software platform built within the last twenty years.
-Facebook, Twitter, Google, Netflix, and LinkedIn are just some of the companies
-and projects listed as Git users on [its website](https://git-scm.com/). There
-are undoubtedly more.)
-
 Now that you have Homebrew, installing git is as easy as running the following in Terminal:
 
 `brew install git`
