@@ -43,15 +43,15 @@ To install Homebrew, paste the following into the Terminal app and press Enter.
 
 ## Step 3: Install git
 
-You're reading this on Github. That works fine. But given that you'll ultimately
-want to work with files within your own local filesystem, it makes sense to
-transfer these instructions there.
+You're reading this on Github. That works just fine, as does reading anything on
+the web. But given that you'll want to work with files inside your local
+filesystem eventually, it makes sense to transfer these instructions there.
 
 Rather than download them in the standard way (by clicking a download link, for
-example), copying and pasting their contents into new files, you'll use git to
-clone them onto your machine. Git is a version control system that is useful if
+example), or duplicate them using copy and paste, you'll use the program git to
+clone the files onto your machine. Git is a version control system that is useful if
 not essential to writing in plain text formats like markdown and latex, and it's
-also simply everywhere in development today and therefore useful to know.
+so ubiquitous in development today it's simply useful to know.
 
 (Unrelatedly, its creation is fascinating in its own right. Linus Torvalds,
 frustrated with the version control software available to him as he was
